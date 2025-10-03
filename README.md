@@ -69,8 +69,8 @@ The goal is to predict the daily sales of various store–item combinations usin
 
 ## 🔗 Links
 
-Kaggle Competition: [Store Item Demand Forecasting Challenge](https://www.kaggle.com/competitions/demand-forecasting-kernels-only)
-Kaggle Notebook: [My Solution](https://www.kaggle.com/code/oxspaceman/store-item-demand-forecasting)
+- Kaggle Competition: [Store Item Demand Forecasting Challenge](https://www.kaggle.com/competitions/demand-forecasting-kernels-only)
+- Kaggle Notebook: [My Solution](https://www.kaggle.com/code/oxspaceman/store-item-demand-forecasting)
 
 --- 
 
